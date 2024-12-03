@@ -6,4 +6,4 @@ Welcome to the official repository for our ECCV 2024 accepted paper, *"Decipheri
 ## Dataset ImageNet-AO
 You can access the filtered version of our dataset (v2), processed using GPT-4-V, at the following link:
 
-[ImageNet-AO (Filtered by GPT-4-V)](https://drive.google.com/file/d/1qSoz1xmu1kHoZSF2IYRvTD1DTNXNZhKw/view?usp=sharing)
+[ImageNet-AO v2 (Filtered by GPT-4-V)](https://drive.google.com/file/d/1qSoz1xmu1kHoZSF2IYRvTD1DTNXNZhKw/view?usp=sharing)
